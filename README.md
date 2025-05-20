@@ -1,7 +1,6 @@
 ## Hi there 👋
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=light)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigeward-king&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigeward-king&layout=donut)
 
 **Sigeward-king** 
 - 🔭 I’m currently working on Agent, LLM
