@@ -8,4 +8,3 @@
 - 📫 How to reach me: n2986463241@gmail.com
 - ⚡ Fun fact: Programming
 
-![Profile Views](https://komarev.com/ghpvc/?username=sigeward-king&color=brightgreen)
