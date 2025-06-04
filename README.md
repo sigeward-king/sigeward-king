@@ -2,7 +2,6 @@
 [![Website](https://api.netlify.com/api/v1/badges/你的站点ID/deploy-status)](https://sigeward.netlify.app)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sigeward-king&layout=donut&count_private=true)
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=light)
 
 
