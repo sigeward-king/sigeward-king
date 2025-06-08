@@ -1,5 +1,5 @@
 
-<img src="github.png" alt="主页图片" width="80%">
+<img src="github.png" alt="主页图片" width="90%">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1A6B8A?style=flat&logo=data:image/svg+xml)
@@ -21,8 +21,8 @@ I focus on **Agent** and **LLM** research & engineering to accelerate digital ci
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigeward-king&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=graywhite&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigeward-king&layout=compact&theme=graywhite&hide_border=true" height="180"/>
 </div>
 
 ## 📝 Publications
