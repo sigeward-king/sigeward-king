@@ -1,16 +1,35 @@
-## Hi there 👋 
 
+<img src="github.png" alt="主页图片" width="80%">
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: stretch;">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=light" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigeward-king&layout=donut&count_private=true" style="height: 200px;" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1A6B8A?style=flat&logo=data:image/svg+xml)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-0A5F99?style=flat&logo=data:image/svg+xml)
+
+## Hi there, I'm Sigeward! 👋
+
+> *Master's student at Southeast University, Nanjing | Specializing in Integrated Circuit Design*
+
+I focus on **Agent** and **LLM** research & engineering to accelerate digital circuit design and verification. Always open to collaboration opportunities!
+
+## 🎯 Research Interests
+
+- **Large Language Models (LLMs)**
+- **AI Agents**
+- **Digital Circuit Design & Verification**
+- **EDA Tool Development**
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigeward-king&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" height="180"/>
 </div>
 
-![主页图片](github.png)
+## 📝 Publications
+*Coming soon...*
 
-**Sigeward-king** 
-- 🔭 I’m currently working on Agent, LLM
-- 🌱 I’m currently learning AI
-- 📫 How to reach me: n2986463241@gmail.com
-- ⚡ Fun fact: Programming
+---
+<div align="center">
+  <i>🌟 "Bridging the gap between AI and hardware design" 🌟</i>
+</div>
 
