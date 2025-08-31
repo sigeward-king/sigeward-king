@@ -29,7 +29,7 @@ I focus on **Agent** and **LLM** research & engineering to accelerate digital ci
 </div>
 
 ## 📝 Publications
-*Coming soon...*
+*A New Era for Modern HDL: Empowering Agile Hardware Design and Verification with LLMs，Submissions in ASPLOS 2026*
 
 ---
 <div align="center">
