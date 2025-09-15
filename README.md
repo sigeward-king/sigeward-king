@@ -24,8 +24,8 @@ I focus on **Agent** and **LLM** research & engineering to accelerate digital ci
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=graywhite&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sigeward-king&theme=minimal&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=gruvbox&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=sigeward-king&theme=radical&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 ## 📝 Publications
