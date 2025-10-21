@@ -28,7 +28,9 @@ I focus on **Agent** and **LLM** research & engineering to accelerate digital ci
 </div>
 
 ## 📝 Publications
-*A New Era for Modern HDL: Empowering Agile Hardware Design and Verification with LLMs，Submissions in ASPLOS 2026*
+*1. A New Era for Modern HDL: Empowering Agile Hardware Design and Verification with LLMs（First auther），Submissions in ASPLOS 2026*
+
+*2. ChiselFix: A Cross-Layer Debugging Framework Powered By LLM（First auther），Submissions in DAC 2026*
 
 ---
 <div align="center">
