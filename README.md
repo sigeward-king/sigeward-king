@@ -11,7 +11,7 @@
 
 ## Hi there, I'm Sigeward! 👋
 
-> *Master's student at Southeast University, Nanjing | Specializing in Integrated Circuit Design*
+> *PHD's student at Southeast University, Nanjing | Specializing in Integrated Circuit Design*
 
 I focus on **Agent** and **LLM** research & engineering to accelerate digital circuit design and verification. Always open to collaboration opportunities!
 
