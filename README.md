@@ -32,6 +32,10 @@ I focus on **Agent** and **LLM** research & engineering to accelerate digital ci
 
 *2. ChiselFix: A Cross-Layer Debugging Framework Powered By LLM（First auther），in Submissions*
 
+*3. ParetoPilot: Global Optimization Reasoning on HLS Design Space Exploration with LLMs*
+
+*4. ZK-Tracer: A High-Performance Heterogeneous Accelerator for Zero-Knowledge VM Trace Generation*
+
 ---
 <div align="center">
   <i>🌟 "Bridging the gap between AI and hardware design" 🌟</i>
