@@ -8,22 +8,3 @@
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1A6B8A?style=flat&logo=data:image/svg+xml)
 ![Verilog](https://img.shields.io/badge/Verilog-0A5F99?style=flat&logo=data:image/svg+xml)
 
-
-
-## Hi there, I'm Sigeward! 👋
-
-> *PHD student at Southeast University, Nanjing | AI & Digital Design*
-
-I focus on **Agent** and **LLM** research & engineering to accelerate digital circuit design and verification. Always open to collaboration opportunities!
-
-## 🎯 Research Interests
-
-- **Large Language Models (LLMs)**
-- **AI Agents**
-- **Digital Circuit Design & Verification**
-
-## 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=default&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sigeward-king&layout=compact&theme=default&hide_border=true&langs_count=8" height="170" />
-</div>
