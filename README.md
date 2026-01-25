@@ -11,14 +11,17 @@
      src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=buefy"
      width="380" />
 
-
-
 ### About Me 👋
 
 I am **Ni Cheng**, a **second-year Ph.D. student at Southeast University**.  
 I received my bachelor’s degree from **Wuhan University of Science and Technology**.  
-My research focuses on **AI agents** and **chip design verification**.
-
 In parallel, I am the **initiator and co-founder of Cognic AI**, focusing on **voice-agent technologies**.
+
+### Interest
+- **AI agents**: 
+- **Chip design verification**:
+
+### Homepages & Media
+
 
 <br clear="right"/>
