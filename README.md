@@ -1,3 +1,6 @@
+<img align="right"
+     src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=buefy"
+     width="380" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sigeward-king&color=3776AB&style=flat&label=Profile%20Views)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -6,15 +9,11 @@
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1A6B8A?style=flat&logo=data:image/svg+xml)
 ![Verilog](https://img.shields.io/badge/Verilog-0A5F99?style=flat&logo=data:image/svg+xml)
 
-
-<img align="right"
-     src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=buefy"
-     width="380" />
-
 ### About Me 👋
 
 I am **Ni Cheng**, a **2rd Ph.D. student at Southeast University**. I earn my bachelor’s degree from **Wuhan University of Science and Technology**. 
-In parallel, I am the **co-founder of Cognic AI**, focusing on **voice-agent**.
+
+I am also the **co-founder of Cognic AI**, focusing on **voice-agent**.
 
 ### Interest
 - **AI agents**: Complex Agent Systems, Voice Agent.
