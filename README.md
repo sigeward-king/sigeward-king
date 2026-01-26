@@ -14,14 +14,16 @@
 ### About Me 👋
 
 I am **Ni Cheng**, a **second-year Ph.D. student at Southeast University**.  
-I received my bachelor’s degree from **Wuhan University of Science and Technology**.  
-In parallel, I am the **initiator and co-founder of Cognic AI**, focusing on **voice-agent technologies**.
+I earn my bachelor’s degree from **Wuhan University of Science and Technology**. In parallel, I am the **co-founder of Cognic AI**, focusing on **voice-agent technologies**.
 
 ### Interest
-- **AI agents**: 
-- **Chip design verification**:
+- **AI agents**: Complex Agent Systems, Voice Agent.
+- **Chip design verification**: CPU/GPU design & verification.
 
 ### Homepages & Media
-
+- **Homepage**: not-yet
+- **Google Scolar**📄 [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=7vYRw-kAAAAJ)
+- **Xiaohongshu**: 📌 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/63832530000000001f01cce3)
+- **Email**: chengni2001@gmail.com 
 
 <br clear="right"/>
