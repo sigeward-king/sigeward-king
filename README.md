@@ -13,8 +13,8 @@
 
 ### About Me 👋
 
-I am **Ni Cheng**, a **second-year Ph.D. student at Southeast University**.  
-I earn my bachelor’s degree from **Wuhan University of Science and Technology**. In parallel, I am the **co-founder of Cognic AI**, focusing on **voice-agent technologies**.
+I am **Ni Cheng**, a **2rd Ph.D. student at Southeast University**. I earn my bachelor’s degree from **Wuhan University of Science and Technology**. 
+In parallel, I am the **co-founder of Cognic AI**, focusing on **voice-agent**.
 
 ### Interest
 - **AI agents**: Complex Agent Systems, Voice Agent.
