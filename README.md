@@ -5,8 +5,8 @@
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1A6B8A?style=flat&logo=data:image/svg+xml)
 ![Verilog](https://img.shields.io/badge/Verilog-0A5F99?style=flat&logo=data:image/svg+xml)
 
-<img align="right"
-     src="https://github-readme-stats.vercel.app/api?username=sigeward-king&show_icons=true&theme=buefy"
+<img align="right" 
+     src="https://github-readme-stats-fast.vercel.app/api?username=sigeward-king&show_icons=true&theme=buefy"
      width="380" />
 
 ### About Me 👋
