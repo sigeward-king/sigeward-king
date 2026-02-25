@@ -20,8 +20,8 @@ I am also the **co-founder of Cognic AI**, focusing on **voice-agent**.
 - **Chip design verification**: CPU/GPU design & verification.
 
 ### Homepages & Media
-- **Homepage**: not-yet
-- **Google Scolar**📄 [Google Scholar](https://scholar.google.com/citations?user=hcKE6r4AAAAJ&hl=zh-CN)
+- **Homepage**: 🏠[Homepage](https://nicheng.com)
+- **Google Scolar**: 📄 [Google Scholar](https://scholar.google.com/citations?user=hcKE6r4AAAAJ&hl=zh-CN)
 - **Xiaohongshu**: 📌 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/63832530000000001f01cce3)
 - **Email**: chengni2001@gmail.com 
 
