@@ -16,7 +16,7 @@ I am **Ni Cheng**, a **2rd Ph.D. student at Southeast University**. I earn my ba
 I am also the **co-founder of Cognic AI**, focusing on **voice-agent**.
 
 ### Interest
-- **AI agents**: Complex Agent Systems, Voice Agent.
+- **AI agents**: Agentic AI Systems, Voice Agent.
 - **Chip design verification**: CPU/GPU design & verification.
 
 ### Homepages & Media
