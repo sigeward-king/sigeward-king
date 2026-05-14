@@ -6,7 +6,7 @@
 ![Verilog](https://img.shields.io/badge/Verilog-0A5F99?style=flat&logo=data:image/svg+xml)
 
 <img align="right" 
-     src="https://github-readme-stats-fast.vercel.app/api?username=sigeward-king&show_icons=true&theme=buefy"
+     src="https://github-readme-stats-fast.vercel.app/api?username=nicheng-ai&show_icons=true&theme=buefy"
      width="380" />
 
 ### About Me 👋
