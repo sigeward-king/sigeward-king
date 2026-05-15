@@ -22,7 +22,7 @@ I am also the **co-founder of MindSparks AI**, focusing on **voice-agent**.
 ### Homepages & Media
 - **Homepage**: 🏠 [Homepage](https://nicheng-ai.github.io/cheng-page/)
 - **Google Scolar**: 📄 [Google Scholar](https://scholar.google.com/citations?user=hcKE6r4AAAAJ&hl=zh-CN)
-- **Xiaohongshu**: 📌 [Xiaohongshu](https://www.xiaohongshu.com/user/profile/63832530000000001f01cce3)
+- **Rednote: 📌 [Rednote](https://www.xiaohongshu.com/user/profile/63832530000000001f01cce3)
 - **Email**: chengni2001@gmail.com 
 
 <br clear="right"/>
